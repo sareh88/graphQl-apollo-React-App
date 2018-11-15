@@ -1,0 +1,29 @@
+{
+  "name": "graphql-apollo-react-app",
+  "version": "1.0.0",
+  "description": "this an example for app using qraphql and apollo client and react and node js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sareh88/graphQl-apollo-React-App.git"
+  },
+  "author": "sareh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sareh88/graphQl-apollo-React-App/issues"
+  },
+  "homepage": "https://github.com/sareh88/graphQl-apollo-React-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
